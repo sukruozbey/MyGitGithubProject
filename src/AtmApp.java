@@ -7,6 +7,8 @@ public class AtmApp {
         //version 4
         System.out.println("giti öğrenmek kolay");
         //version 5
-        System.out.println("java zor");
+
+        //version 6
+        System.out.println("java kolay");
     }
 }
